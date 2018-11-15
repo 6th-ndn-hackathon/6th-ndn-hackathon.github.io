@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
 
-url: http://6th-ndn-hackathon.named-data.net
+url: http://7th-ndn-hackathon.named-data.net
 baseurl:
 
 plugins:
@@ -16,19 +16,19 @@ plugins:
 
 deadlines:
         - name: Submission deadline
-          date: <del>April 27, 2018</del>
+          date: <del> Oct 17, 2018 </del>
         - name: Acceptance notification
-          date: <del>May 4, 2018</del>
+          date: <del> Oct 18, 2018 </del>
 
 # Configuration for permalink
 permalink: /:page.html
 
 # Configuration for site
-title: 6th Named Data Networking (NDN) Hackathon
-short_title: 6th NDN Hackathon
-description: May 12-13, 2018, Florida International University
-author: 6th NDN Hackathon Organizing Committee
-email: 6th-ndn-hackathon@named-data.net
+title: 7th Named Data Networking (NDN) Hackathon
+short_title: 7th NDN Hackathon
+description: Oct 20 - 21, 2018
+author: 7th NDN Hackathon Organizing Committee
+email: 7th-ndn-hackathon@named-data.net
 
 # Configuration for blog
 lang: en
@@ -53,7 +53,7 @@ navbar_list:
   link: /program.html
 
 #- name: <b>REGISTER NOW</b>
-#  link: https://www.eventbrite.com/e/6th-ndn-hackathon-tickets-43721926459
+#  link: https://www.eventbrite.com/e/7th-ndn-hackathon-tickets-51133541800
 - name: <b>HACKS</b>
   link: /hacks.html
 
@@ -79,7 +79,7 @@ twitter:
     widget_id: 698294519054278656
 
 github:
-   username: 6th-ndn-hackathon
+   username: 7th-ndn-hackathon
    count: 10000
 
 assets:

@@ -1,69 +1,52 @@
 ---
 layout: page
-title: Welcome to 6th NDN Hackathon
+title: Welcome to 7th NDN Hackathon - Virtual Hackathon !!! 
 ---
-
-The NDN Team is organizing our 6th NDN Hackathon on May 12 and 13, 2018 at Florida International University.  We are soliciting Hackathon project proposals that advance the state of NDN.  Participants will have approximately **12 hours** to work on the projects.
-
+ 
 We encourage projects that:
 
- - directly address NDN research needs,
- - create new NDN tools or modify existing tools,
- - create or improve documentation and how-to guides.
+ - Directly address NDN research needs,
+ - Create new NDN tools or modify existing tools,
+ - Create or improve documentation and how-to guides.
 
 ## Hackathon Awards
 
-- **Most Relevant**
+#### First Prize: VR Headset
+*Modernize ndn-js*    
+  
+Project Lead: Junxiao Shi (NIST)   
+Project Members: Mheni Merzouki (NIST), Omar Ilias El Mimouni (NIST)    
 
-  *Make NDN Congestion Control work in ndnSIM*
+#### Second Prize:  IOT development package
+*Refactor NDN-RIOT*   
+  
+Project Lead: Zhiyi Zhang  
+Project Members: Tianyuan Yu, Bo Chen, Weijia Yuan  
 
-  Klaus Schneider, Md Ashiqur Rahman, Chavoosh Ghasemi
+#### Third Prize: USB WiFi Adapter
+*Named Reddit and Interest Buffering*  
+  
+*Named Reddit*  
+   
+Project Lead: Ernest McCracken (Memphis)  
+Project Members: Tianxing Ma (Memphis), Saurab Dulal (Memphis)  
 
-  {% asset awards/20180515_105631.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
-
-  <br/>
-
-- **Most Needed**
-
-  *Implement State Vector Sync (SVS) and Apply It to Repo*
-
-  Jeff Thompson, Haitao Zhang, Saurab Dulal, Tianxiang Li
-
-  {% asset awards/20180515_105716.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
-
-  <br/>
-
-- **External Impact**
-
-  *IoT security bootstrapping with NDN*
-
-  Zhiyi Zhang, Sanjeev Ramani, Laqin Fan, Edward Lu, Abdullah Abumouzah
-
-  {% asset awards/20180515_105754.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
-
-  <br/>
-
-- **Award**
-
-  *Porting PSync C++ library to Java*
-
-  Ashlesh Gawande, Damian Coomes
-
-  {% asset awards/20180515_105828.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
-
-  <br/>
+*Interest Buffering*  
+   
+Project Lead: Tianxiang Li (UCLA)  
+Project Members: Spyros Mastorakis (UCLA), Xinyu Ma, Klaus Schneider (Arizona)  
+ 
+#### Hackathon Participation Prize: Wireless Bluetooth Speaker 
+This is awarded as an appreciation for participating in the Hackathon.  
 
 ## News
 
-- May 10, 2018: The hackathon location has been added to the schedule.
-- May 8, 2018: Accepted hacks have been posted
-- April 21, 2018: The submission period has been extended by a week
-- March 26, 2018: List of Hacking Committee members released
-- March 13, 2018: Registration link is up
-- March 7, 2018: The hackathon website is up
+- Oct 8, 2018: Hackathon date, submission deadline, and acceptance notification confirmed.
+- Oct 13, 2018: Proposal submission deadline extended till Oct 17. 
+- Oct 17, 2018: Exciting prizes anounced
+- Oct 18, 2018: Poll to select projects online
+- Nov 14, 2018: Anounced the results and the winners
 
 ## Sponsors
 
 [NDN Consortium](https://named-data.net/consortium/)
-
-{% asset awards/20180515_105608.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}

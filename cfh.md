@@ -13,7 +13,7 @@ We encourage projects that:
 
 ## Submission guidelines
 
-Proposals should be submitted via [web form](https://goo.gl/forms/zsyVQSb3yrn5v8a23).
+Proposals should be submitted via [web form](https://goo.gl/forms/Wd0363sq9heiiFS72).
 
 The submissions should include:
 
@@ -23,7 +23,6 @@ All the submitted proposals will be reviewed by the Hacking Committee.  If accep
 
 Projects will be judged by a panel for the "Best of Hackathon" prize. We hope that the hackathon will be a fun event for all and that projects will lead to collaborations extending beyond the Hackathon.
 
-Please use the submission template: [PPTx]({% asset ndn-hackathon-template.pptx @path %})
 
 ## Additional information
 
